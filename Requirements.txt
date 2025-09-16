@@ -1,0 +1,11 @@
+lumibot==0.6.0  # change if a different version is needed; install with pip
+pandas>=1.5
+numpy>=1.24
+sqlalchemy>=1.4
+psycopg2-binary
+python-dotenv
+ta  # for technical indicators if needed
+scipy  # for sharpe computations
+yfinance
+fastapi  # optional if you want to run backend here
+uvicorn
