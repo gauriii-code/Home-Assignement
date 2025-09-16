@@ -1,0 +1,9 @@
+{
+  "initial_capital": 10000,
+  "final_portfolio_value": 11150.0,
+  "total_return": 0.115,
+  "annualized_return": 0.057,
+  "max_drawdown": -0.045,
+  "sharpe_ratio": 0.62,
+  "number_of_trades": 12
+}
